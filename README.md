@@ -27,7 +27,7 @@ someone.age = 22;
 console.log(someone.age);
 //22
 console.log(someone.happy);
-//yes
+//yes!
 
 //restore the object back to the previous restore point
 restore(someone);
