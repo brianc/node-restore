@@ -1,0 +1,19 @@
+{
+  "name": "restore",
+  "version": "0.0.1",
+  "description": "save/restore an object -- for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianc/node-restore"
+  },
+  "keywords": [
+    "save",
+    "restore"
+  ],
+  "author": "Brian M. Carlson",
+  "license": "MIT"
+}
