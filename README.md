@@ -1,7 +1,10 @@
 #node-restore
 
 Set a restore point for an object.  Modify the object.  Restore the object back to the original point.
-For me useful for testing.  For you?  Useful for....everything?!
+
+For me useful for testing.  
+
+For you?  Useful for....everything?!
 
 
 [![Build Status](https://travis-ci.org/brianc/node-restore.png?branch=master)](https://travis-ci.org/brianc/node-restore)
